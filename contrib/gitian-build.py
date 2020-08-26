@@ -187,7 +187,7 @@ def sign():
     # TODO: Skip making signed windows sigs until we actually start producing signed windows binaries
     #print('\nSigning ' + args.version + ' Windows')
     #subprocess.check_call('cp inputs/1x2coin-' + args.version + '-win-unsigned.tar.gz inputs/1x2coin-win-unsigned.tar.gz', shell=True)
-    #subprocess.check_call(['bin/gbuild', '--skip-image', '--upgrade', '--commit', 'signature='+args.commit, '../1x2coinv2/contrib/gitian-descriptors/gitian-win-signer.yml'])
+    #subprocess.check_call(['bin/gbuild', '--skip-image', '--upgrade', '--commit', 'signature='+args.commit, '../1x2coin/contrib/gitian-descriptors/gitian-win-signer.yml'])
     #subprocess.check_call(['bin/gsign', '-p', args.sign_prog, '--signer', args.signer, '--release', args.version+'-win-signed', '--destination', '../gitian.sigs/', '../1x2coin/contrib/gitian-descriptors/gitian-win-signer.yml'])
     #subprocess.check_call('mv build/out/1x2coin-*win64-setup.exe ../1x2coin-binaries/'+args.version, shell=True)
     #subprocess.check_call('mv build/out/1x2coin-*win32-setup.exe ../1x2coin-binaries/'+args.version, shell=True)
@@ -258,7 +258,7 @@ def main():
     parser = argparse.ArgumentParser(description='Script for running full Gitian builds.')
     parser.add_argument('-c', '--commit', action='store_true', dest='commit', help='Indicate that the version argument is for a commit or branch')
     parser.add_argument('-p', '--pull', action='store_true', dest='pull', help='Indicate that the version argument is the number of a github repository pull request')
-    parser.add_argument('-u', '--url', dest='url', default='https://github.com/waterfallm/1x2coinv2', help='Specify the URL of the repository. Default is %(default)s')
+    parser.add_argument('-u', '--url', dest='url', default='https://github.com/1x2-coin/1x2coin', help='Specify the URL of the repository. Default is %(default)s')
     parser.add_argument('-v', '--verify', action='store_true', dest='verify', help='Verify the Gitian build')
     parser.add_argument('-b', '--build', action='store_true', dest='build', help='Do a Gitian build')
     parser.add_argument('-s', '--sign', action='store_true', dest='sign', help='Make signed binaries for Windows and MacOS')
