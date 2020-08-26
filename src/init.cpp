@@ -525,11 +525,9 @@ std::string LicenseInfo()
            "\n" +
            FormatParagraph(strprintf(_("Copyright (C) 2015-%i The PIVX Core Developers"), COPYRIGHT_YEAR)) + "\n" +
            "\n" +
-           FormatParagraph(strprintf(_("Copyright (C) 2017-%i The 1x2coin Core Developers"), COPYRIGHT_YEAR)) + "\n" +
+           FormatParagraph(strprintf(_("Copyright (C) 2017-%i The 1X2 Coin Core Developers"), COPYRIGHT_YEAR)) + "\n" +
            "\n" +
            FormatParagraph(_(" ")) + "\n" +
-           "\n" +
-		   FormatParagraph(_("Spearheaded by SizzlePhizzle with support from Maurice, Huitemae, Cookie, SBurns1369, RuLzU, Specthree, SpektralFeniks, SaigonMike, r2, Rig4p and Thommyd. 1x2coin has risen from the ashes and is reborn with wallet improvements. Our gratitude goes to the legendary wallet developer Remapper - <https://github.com/Remapper>")) + "\n" +
            "\n" +
            FormatParagraph(_("Distributed under the MIT software license, see the accompanying file COPYING or <http://www.opensource.org/licenses/mit-license.php>.")) + "\n" +
            "\n" +
