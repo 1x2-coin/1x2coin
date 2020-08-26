@@ -1,2 +1,2 @@
-#define BUILD_DESC "2.1.0.0"
-#define BUILD_DATE "2020-08-26 12:39:34 +0100"
+#define BUILD_DESC "2.0.0.0"
+#define BUILD_DATE "2020-08-26 13:39:15 +0100"
