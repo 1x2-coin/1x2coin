@@ -2646,8 +2646,8 @@ Please check the address and try again.</source>
         <translation>Разработчики Dash Core</translation>
     </message>
     <message>
-        <source>The PIVX Core developers</source>
-        <translation>Разработчики PIVX Core</translation>
+        <source>The 1x2coin Core developers</source>
+        <translation>Разработчики 1x2coin Core</translation>
     </message>
     <message>
         <source>The 1x2coin Core developers</source>
@@ -2936,8 +2936,8 @@ Please check the address and try again.</source>
         <translation>Copyright (C) 2014-%i Разработчики Dash Core</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The PIVX Core Developers</source>
-        <translation>Copyright (C) 2015-%i Разработчики PIVX Core</translation>
+        <source>Copyright (C) 2015-%i The 1x2coin Core Developers</source>
+        <translation>Copyright (C) 2015-%i Разработчики 1x2coin Core</translation>
     </message>
     <message>
         <source>Copyright (C) 2017-%i The 1x2coin Core Developers</source>

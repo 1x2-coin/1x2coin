@@ -2076,8 +2076,8 @@ Please check the address and try again.</source>
         <translation>Dash Core kehittäjät</translation>
     </message>
     <message>
-        <source>The PIVX Core developers</source>
-        <translation>PIVX core kehittäjät</translation>
+        <source>The 1x2coin Core developers</source>
+        <translation>1x2coin core kehittäjät</translation>
     </message>
     <message>
         <source>The 1x2coin Core developers</source>

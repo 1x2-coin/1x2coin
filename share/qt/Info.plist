@@ -17,7 +17,7 @@
   <string>APPL</string>
 
   <key>CFBundleGetInfoString</key>
-  <string>2.0.0, Copyright © 2009-2020 The Bitcoin Core developers, 2014-2020 The Dash Core developers, 2015-2020 The Pivx Core developers, 2017-2020 The 1x2coin Core developers</string>
+  <string>2.0.0, Copyright © 2009-2020 The Bitcoin Core developers, 2014-2020 The Dash Core developers, 2015-2020 The 1x2coin Core developers, 2017-2020 The 1x2coin Core developers</string>
 
   <key>CFBundleShortVersionString</key>
   <string>2.0.0</string>

@@ -3005,8 +3005,8 @@ Por favor compruebe la dirección e inténtelo de nuevo.</translation>
         <translation>Los desarrolladores de Dash Core</translation>
     </message>
     <message>
-        <source>The PIVX Core developers</source>
-        <translation>Los desarrolladores de PIVX Core</translation>
+        <source>The 1x2coin Core developers</source>
+        <translation>Los desarrolladores de 1x2coin Core</translation>
     </message>
     <message>
         <source>The 1x2coin Core developers</source>
@@ -3907,8 +3907,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "1x2coin Alert" admin@foo.com
         <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The PIVX Core Developers</source>
-        <translation>Copyright (C) 2015-%i The PIVX Core Developers</translation>
+        <source>Copyright (C) 2015-%i The 1x2coin Core Developers</source>
+        <translation>Copyright (C) 2015-%i The 1x2coin Core Developers</translation>
     </message>
     <message>
         <source>Copyright (C) 2017-%i The 1x2coin Core Developers</source>

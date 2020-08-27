@@ -3730,8 +3730,8 @@ Bitte Adresse überprüfen und nochmals versuchen.</translation>
         <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The PIVX Core Developers</source>
-        <translation>Copyright (C) 2015-%i The PIVX Core Developers</translation>
+        <source>Copyright (C) 2015-%i The 1x2coin Core Developers</source>
+        <translation>Copyright (C) 2015-%i The 1x2coin Core Developers</translation>
     </message>
     <message>
         <source>Copyright (C) 2017-%i The 1x2coin Core Developers</source>

@@ -104,9 +104,9 @@ def setup_darwin():
 
 def setup_repos():
     if not os.path.isdir('gitian.sigs'):
-        subprocess.check_call(['git', 'clone', 'https://github.com/PIVX-Project/gitian.sigs'])
-    if not os.path.isdir('pivx-detached-sigs'):
-        subprocess.check_call(['git', 'clone', 'https://github.com/PIVX-Project/pivx-detached-sigs'])
+        subprocess.check_call(['git', 'clone', 'https://github.com/1x2coin-Project/gitian.sigs'])
+    if not os.path.isdir('1x2coin-detached-sigs'):
+        subprocess.check_call(['git', 'clone', 'https://github.com/1x2coin-Project/1x2coin-detached-sigs'])
     if not os.path.isdir('gitian-builder'):
         subprocess.check_call(['git', 'clone', 'https://github.com/devrandom/gitian-builder.git'])
     if not os.path.isdir('1x2coin'):

@@ -1,4 +1,4 @@
-1X2 Coin Core (fork of PIVX) integration/staging repository
+1X2 Coin Core (fork of 1x2coin) integration/staging repository
 ======================================
 
 

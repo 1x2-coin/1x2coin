@@ -2985,8 +2985,8 @@ Kontroller adressen og prøv igen.</translation>
         <translation>DASH "core" udviklerne</translation>
     </message>
     <message>
-        <source>The PIVX Core developers</source>
-        <translation>PIVX "core" udviklerne</translation>
+        <source>The 1x2coin Core developers</source>
+        <translation>1x2coin "core" udviklerne</translation>
     </message>
     <message>
         <source>The 1x2coin Core developers</source>
@@ -3888,8 +3888,8 @@ For eksempel: alertnotify=Echo %% | mail - s "1x2coin ALARM!" e-mail@administrat
         <translation>Copyright (C) 2014-%i The Dash Core Developers </translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The PIVX Core Developers</source>
-        <translation>Copyright (C) 2015-%i The PIVX Core Developers</translation>
+        <source>Copyright (C) 2015-%i The 1x2coin Core Developers</source>
+        <translation>Copyright (C) 2015-%i The 1x2coin Core Developers</translation>
     </message>
     <message>
         <source>Copyright (C) 2017-%i The 1x2coin Core Developers</source>

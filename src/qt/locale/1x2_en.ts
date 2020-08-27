@@ -4219,7 +4219,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+1"/>
-        <source>The PIVX Core developers</source>
+        <source>The 1x2coin Core developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5373,7 +5373,7 @@ for example: alertnotify=echo %%s | mail -s &quot;1x2coin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Copyright (C) 2015-%i The PIVX Core Developers</source>
+        <source>Copyright (C) 2015-%i The 1x2coin Core Developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

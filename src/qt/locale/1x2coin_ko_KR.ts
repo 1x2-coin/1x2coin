@@ -2986,8 +2986,8 @@ Please check the address and try again.</source>
         <translation>Dash Core 개발자</translation>
     </message>
     <message>
-        <source>The PIVX Core developers</source>
-        <translation>PIVX Core 개발자</translation>
+        <source>The 1x2coin Core developers</source>
+        <translation>1x2coin Core 개발자</translation>
     </message>
     <message>
         <source>The 1x2coin Core developers</source>
@@ -3889,8 +3889,8 @@ rpcpassword=%s
         <translation>Copyright (C) 2014-%i The Dash Core 개발자들</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The PIVX Core Developers</source>
-        <translation>Copyright (C) 2015-%i The PIVX Core 개발자</translation>
+        <source>Copyright (C) 2015-%i The 1x2coin Core Developers</source>
+        <translation>Copyright (C) 2015-%i The 1x2coin Core 개발자</translation>
     </message>
     <message>
         <source>Copyright (C) 2017-%i The 1x2coin Core Developers</source>
