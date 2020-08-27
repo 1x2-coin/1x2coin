@@ -24,7 +24,7 @@ packages:
 - "rename"
 remotes:
 - "url": "https://github.com/1x2-coin/1x2coin.git"
-  "dir": "pivx"
+  "dir": "1x2coin"
 files: []
 script: |
   WRAP_DIR=$HOME/wrapped
