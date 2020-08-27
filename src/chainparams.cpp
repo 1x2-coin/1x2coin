@@ -170,7 +170,7 @@ public:
         fHeadersFirstSyncingActive = false;
 
         nPoolMaxTransactions = 3;
-        strSporkKey = "04a9d82336572367601f9d0bfefca4aba85450f4eb99dceff2d9f98a9dbc05eb7419c4b6aca6130429d75bda85f703325929f64b15a19e9268ea726907f3915c6a";
+        strSporkKey = "04a780a5bf118fa720cec2c41891411826e49d034fb3aaf1a9d434d19ce3a4d62146157d3e7cc67c493f82fef52f345c371b695c7b1d4c9b3697135adbd79e0c86";
         strMasternodePoolDummyAddress = "XR45N42U5ENpEKg5U1j7htA5Qy1ko7EB5p";
         nStartMasternodePayments = 1539781675; 
         nBudget_Fee_Confirmations = 6; // Number of confirmations for the finalization fee
