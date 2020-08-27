@@ -2,7 +2,7 @@
 name: "1x2coin-win-3.1"
 enable_cache: true
 suites:
-- "trusty"
+- "bionic"
 architectures:
 - "amd64"
 packages:
