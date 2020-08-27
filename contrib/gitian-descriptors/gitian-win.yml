@@ -22,7 +22,7 @@ packages:
 - "ca-certificates"
 - "python"
 remotes:
-- "url": "https://github.com/waterfallm/1x2coinv2.git"
+- "url": "https://github.com/1x2-coin/1x2coin.git"
   "dir": "1x2coin"
 files: []
 script: |
